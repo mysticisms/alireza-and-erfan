@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>1.jpg</file>
+        <file>player.png</file>
+        <file>at.png</file>
+        <file>plane.png</file>
+        <file>plane2.png</file>
+        <file>bullet.png</file>
+        <file>helec.png</file>
+        <file>ship.png</file>
+        <file>jet.png</file>
+        <file>oil.png</file>
+        <file>bomb-02.mp3</file>
+    </qresource>
+    <qresource prefix="/song">
+        <file>Naab.mp3</file>
+    </qresource>
+</RCC>
